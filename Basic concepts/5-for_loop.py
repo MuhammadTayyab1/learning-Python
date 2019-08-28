@@ -28,3 +28,15 @@ for j in range(4):
     print(j)
 else:
     print('Program end')
+    
+   
+
+# Reverse for loop
+# Method 1
+for i in range(9,-1,-1):
+    print(i)
+    
+    
+#Method 2 
+for i in reversed(range(10)):
+    print(i)

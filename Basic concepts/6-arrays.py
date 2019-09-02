@@ -27,3 +27,13 @@ cars.remove("Ford")
 for y in cars:
     print(y)
 
+
+# 2d array/list
+
+arr=[[90,98],[77,90],[99,89],[95,94]]
+
+print(arr)
+
+for i in range(len(arr)):
+    for j in range(len(arr[i])):
+        print("i=",i,"  j=",j,"    value",arr[i][j])

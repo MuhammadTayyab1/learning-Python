@@ -39,6 +39,9 @@ for i in range(len(arr)):
         print("i=",i,"  j=",j,"    value",arr[i][j])
         
         
+    
+        
+        
         
 # Add remove in multidimensional 
 arr=[(10,99),(20,90)]
@@ -53,3 +56,10 @@ print(arr)
 arr.remove((20,90))
 print(arr)
 
+
+
+# List Comprehension
+lis= [i for i in range(10)]
+
+
+print(lis)

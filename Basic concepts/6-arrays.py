@@ -37,3 +37,19 @@ print(arr)
 for i in range(len(arr)):
     for j in range(len(arr[i])):
         print("i=",i,"  j=",j,"    value",arr[i][j])
+        
+        
+        
+# Add remove in multidimensional 
+arr=[(10,99),(20,90)]
+print(arr)
+
+arr.append((90,90))
+print(arr)
+
+arr.pop(0)
+print(arr)
+
+arr.remove((20,90))
+print(arr)
+

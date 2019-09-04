@@ -6,7 +6,6 @@ if "m" in name:
 
 
 
-
 # Search in cause of not found
 name= "someone"
 

@@ -16,6 +16,7 @@ print(rem)
 cos= math.cos(a)
 print(cos)
 
+
 # sin
 sin= math.sin(a)
 print(sin)

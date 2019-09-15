@@ -9,6 +9,7 @@ for i in range(10):
         print("*  ",end=" ")
     print("")
     
+    
 for i in reversed(range(19)):
     for j in range(19-i):
         print("  ",end="")

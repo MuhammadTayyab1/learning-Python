@@ -122,6 +122,8 @@ for i in range(10000):
     m2=int(arr[3])
     condition(m2,a,b,c,d,e,f,g,h,i,j)
 
+    
+    
     print("=================")
 
     s1=int(arr[4])

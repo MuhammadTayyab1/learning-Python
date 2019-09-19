@@ -20,6 +20,7 @@ for i in reversed(range(7)):
         print("* ",end="")
     print("")
     
+    
 for i in reversed(range(9)):
     for j in range(40-i):
         print(" ",end="")

@@ -1,4 +1,4 @@
-cs=int(input(""))
+cs=int(input("Enter : "))
 
 for i in range(cs):
     data=input("Enter number of patient and time seperated by space").split()

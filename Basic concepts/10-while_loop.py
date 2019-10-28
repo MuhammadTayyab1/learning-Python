@@ -14,6 +14,7 @@ else:
 	print("now i is greator then 6")
 
 	
+	
 
 	
 # while with condition 

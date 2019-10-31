@@ -12,6 +12,7 @@ def binarysearch(seq, value):
         elif seq[mid]==value:
             return mid
 
+        
 
 arr=[2,3,8,9]
 data=binarysearch(arr,9)

@@ -8,6 +8,7 @@ print(arr/2)
 
 
 
+
 # array through loop
 arr= np.array([10,20,30,40])
 

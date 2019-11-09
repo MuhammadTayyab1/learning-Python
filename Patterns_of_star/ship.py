@@ -5,6 +5,7 @@ for i in range(8):
         print("* ",end="")
     print("")
     
+
     
 for i in range(10):
     for k in reversed(range(10+i)):

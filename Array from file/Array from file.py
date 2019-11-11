@@ -1,6 +1,6 @@
 
 
-var= open(r'C:\Users\Tayyab\Desktop\file.txt','r')
+var= open(r'file.txt','r')
 a=var.readlines()
 print(a)
 arr=[]

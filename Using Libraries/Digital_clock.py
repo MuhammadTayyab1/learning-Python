@@ -27,6 +27,7 @@ def condition(h,a,b,c,d,e,f,g,h1,i,j):
         print(i)
 
 
+        
 
 
 a ="       |\n"

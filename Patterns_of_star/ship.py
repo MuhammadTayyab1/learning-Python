@@ -15,3 +15,5 @@ for i in range(10):
     for m in range(30-i):
         print("*",end="")
     print("")
+
+    

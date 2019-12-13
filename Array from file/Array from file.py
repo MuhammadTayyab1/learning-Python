@@ -7,6 +7,7 @@ arr=[]
 for i in a:
     arr.append([int(j) for j in i.split(' ')   ] )
 
+    
 print(arr)
 
 for i in range(len(arr)):

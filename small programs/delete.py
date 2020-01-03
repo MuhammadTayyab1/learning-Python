@@ -15,5 +15,3 @@ while j<n:
 
 print("Output")
 print(LA)
-
-
